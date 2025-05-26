@@ -7,7 +7,7 @@
 
 import { Page } from "playwright-core";
 import path from 'path';
-import { ReadEmpData, EmpData} from '/Users/karthikeyanmurugesan/Desktop/Playwright/QA Automation Demo/utilities/readempdata';
+import { ReadEmpData, EmpData} from '../utilities/readempdata';
 import { exit } from "process";
 import { AddAnotherEmp } from "./addanotheremp";
 
